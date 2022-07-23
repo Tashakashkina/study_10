@@ -1,4 +1,4 @@
-# study_10
+# Flutter project
 
 A new Flutter project.
 
